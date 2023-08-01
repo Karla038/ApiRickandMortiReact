@@ -1,1 +1,1 @@
-# ApiRickandMortiReact
+# ApiRickandMortyReact
